@@ -86,4 +86,10 @@ void q_short(int low, int high)
 	//recursive call to sort the Left right sub array
 
 	q_short(j + i, high); //step 13
+
+
+}
+
+void display() {
+
 }
