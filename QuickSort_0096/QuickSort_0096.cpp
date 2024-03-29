@@ -101,5 +101,5 @@ void display() {
 	}
 
 	cout << "\n\nNumber of comparassion" << cmp_count << endl;
-
+	cout << "Number of data movement : " << mov_count << endl;
 }
